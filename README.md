@@ -33,7 +33,7 @@ Developed using Python and Gradio, and integrated with the IBM Granite 3.3B Inst
 📽️ Demo Video
 
 🎥 Watch our full demo here:  
-🔗 https://youtu.be/r8Aoafueg4U?si=N3B5Zj0zR2Ar_Jy5
+🔗 https://drive.google.com/file/d/1zz-j-ZDbloYVLIVDv83mBGsTxCMwluuW/view?usp=drivesdk
 
 ---
 
