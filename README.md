@@ -33,7 +33,7 @@ Developed using Python and Gradio, and integrated with the IBM Granite 3.3B Inst
 ## 📽️ Demo Video
 
 🎥 Watch our full demo here:  
-🔗 *[Link to be added]*
+🔗 https://youtu.be/r8Aoafueg4U?si=N3B5Zj0zR2Ar_Jy5
 
 ---
 
@@ -48,11 +48,7 @@ See the attached PDF documentation for UI screenshots and flow diagrams.
 ```
 EduTutor-AI/
 ├── app.py
-├── quiz_generator.py
-├── user_auth.py
-├── tracker.py
 ├── requirements.txt
-├── sample_quiz.pdf
 └── README.md
 ```
 
