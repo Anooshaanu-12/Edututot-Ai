@@ -3,7 +3,7 @@
 Project by:  
 Kasimsetty Anoosha (Team Leader)  
 Gaddam Tharunya  
-Gajula Alekhya  
+Gajjala Alekhya  
 KayamKhani Thanweer  
 
 Institution: SREC College, Nandyal  
@@ -25,7 +25,7 @@ Developed using Python and Gradio, and integrated with the IBM Granite 3.3B Inst
 |-------------------------|---------------------------------------------|----------------------------------------------------------------------------------|
 | Kasimsetty Anoosha  | Team Leader, Backend Integration & Deployment | Built AI engine, managed API integration, deployed app on cloud                 |
 | Gaddam Tharunya     | Feature Developer & UI Design               | Designed Gradio UI, structured user flows, assisted in prompt engineering       |
-| Gajula Alekhya      | Quiz Generator & PDF Processing             | Developed quiz-from-PDF functionality, validated inputs, and logic              |
+| Gajjala Alekhya      | Quiz Generator & PDF Processing             | Developed quiz-from-PDF functionality, validated inputs, and logic              |
 | KayamKhani Thanweer       | Progress Tracking & Testing                 | Created performance tracking logic, tested user sessions, and debugged features |
 
 ---
