@@ -4,14 +4,14 @@ Project by:
 Kasimsetty Anoosha (Team Leader)  
 Gaddam Tharunya  
 Gajula Alekhya  
-Khan Thanweer  
+KayamKhani Thanweer  
 
 Institution: SREC College, Nandyal  
 Internship: SmartInternz – Virtual Internship (AI using IBM Granite)
 
 ---
 
-## 📌 Project Overview
+📌 Project Overview
 
 EduTutor-AI is an AI-powered educational assistant that simplifies learning and content generation for students and teachers alike. It provides personalized learning support through AI conversations, quiz generation, progress tracking, and PDF content parsing.
 
@@ -19,7 +19,7 @@ Developed using Python and Gradio, and integrated with the IBM Granite 3.3B Inst
 
 ---
 
-## 👥 Team Members & Contributions
+👥 Team Members & Contributions
 
 | Name                    | Role                                        | Key Contributions                                                               |
 |-------------------------|---------------------------------------------|----------------------------------------------------------------------------------|
@@ -30,16 +30,10 @@ Developed using Python and Gradio, and integrated with the IBM Granite 3.3B Inst
 
 ---
 
-## 📽️ Demo Video
+📽️ Demo Video
 
 🎥 Watch our full demo here:  
 🔗 https://youtu.be/r8Aoafueg4U?si=N3B5Zj0zR2Ar_Jy5
-
----
-
-## 🖼️ Screenshots
-
-See the attached PDF documentation for UI screenshots and flow diagrams.
 
 ---
 
@@ -54,7 +48,7 @@ EduTutor-AI/
 
 ---
 
-## 🚀 How to Run This Project
+ 🚀 How to Run This Project
 
 1️⃣ Clone the Repository:
 ```bash
@@ -83,23 +77,23 @@ Gradio will open a link in your browser automatically.
 
 ---
 
-## 🧪 Features Explained
+ 🧪 Features Explained
 
-### 🔐 User Authentication  
+ 🔐 User Authentication  
 Register and login securely to personalize your learning experience.
 
-### 💬 AI Tutor Chat  
+ 💬 AI Tutor Chat  
 Interact with the AI tutor to ask questions and receive contextual responses powered by IBM Granite.
 
-### 📝 Quiz Generator  
+ 📝 Quiz Generator  
 Generate quizzes instantly from topics or upload PDFs. Export to screen or download as a file.
 
-### 📈 Progress Tracker  
+ 📈 Progress Tracker  
 Track your learning history, completed quizzes, and AI sessions to stay on top of your goals.
 
 ---
 
-## 🧠 Tech Stack
+🧠 Tech Stack
 
 - Python  
 - Gradio  
